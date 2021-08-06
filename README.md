@@ -17,7 +17,8 @@ BMI	Body Mass Index
 DiabetesPedigreeFunction	Diabetes pedigree function
 Age	Age in years
 Outcome	Class variable (either 0 or 1). 268 of 768 values are 1, and the others are 0
-Project Task: Week 1
+Project Task:
+Week 1
 Data Exploration:
 
 1. Perform descriptive analysis. Understand the variables and their corresponding values. On the columns below, a value of zero does not make sense and thus indicates missing value:
@@ -36,7 +37,8 @@ Data Exploration:
 
 3. There are integer and float data type variables in this dataset. Create a count (frequency) plot describing the data types and the count of variables. 
 
-Project Task: Week 2
+Project Task:
+Week 2
 Data Exploration:
 
 1. Check the balance of the data by plotting the count of outcomes by their value. Describe your findings and plan future course of action.
@@ -47,7 +49,8 @@ Data Exploration:
 
  
 
-Project Task: Week 3
+Project Task:
+Week 3
 Data Modeling:
 
 1. Devise strategies for model building. It is important to decide the right validation framework. Express your thought process.
@@ -56,8 +59,8 @@ Data Modeling:
 
  
 
-Project Task: Week 4
-
+Project Task: 
+Week 4
 Data Modeling:
 
 1. Create a classification report by analyzing sensitivity, specificity, AUC (ROC curve), etc. Please be descriptive to explain what values of these parameter you have used.
